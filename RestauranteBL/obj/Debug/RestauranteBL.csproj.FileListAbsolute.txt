@@ -1,0 +1,7 @@
+c:\users\lennin\documents\visual studio 2010\Projects\SolRestaurante\RestauranteBL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lennin\documents\visual studio 2010\Projects\SolRestaurante\RestauranteBL\bin\Debug\RestauranteBL.dll
+c:\users\lennin\documents\visual studio 2010\Projects\SolRestaurante\RestauranteBL\bin\Debug\RestauranteBL.pdb
+c:\users\lennin\documents\visual studio 2010\Projects\SolRestaurante\RestauranteBL\bin\Debug\RestauranteDL.dll
+c:\users\lennin\documents\visual studio 2010\Projects\SolRestaurante\RestauranteBL\bin\Debug\RestauranteDL.pdb
+c:\users\lennin\documents\visual studio 2010\Projects\SolRestaurante\RestauranteBL\obj\Debug\RestauranteBL.dll
+c:\users\lennin\documents\visual studio 2010\Projects\SolRestaurante\RestauranteBL\obj\Debug\RestauranteBL.pdb
